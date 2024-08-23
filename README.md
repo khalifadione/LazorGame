@@ -8,9 +8,9 @@ Groupe du Jeudi (jeudi U) ayant pour sujet le projet Lazors !
 Jeu de réflexion qui consiste à faire réfléchir un laser contre des blocs jusqu'à ce qu'il atteigne une cible. Plusieurs niveaux sont disponibles.
 
 ## Équipe 
-*   Yann EDIKEU
+
 *   Khalifa ABABACAR DIONE
-*   Marie Tiffany EMMOU COFFI
+
 
 
 ## Prérequis
